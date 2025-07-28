@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Smart TV LG 55\"",
+    "imagen": "/static/img/iphone.gif",
+    "precio": "499€"
+  },
+  {
+    "nombre": "Portátil ASUS i5",
+    "imagen": "https://via.placeholder.com/100",
+    "precio": "599€"
+  }
+]
